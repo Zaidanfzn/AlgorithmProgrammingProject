@@ -1,24 +1,21 @@
 # AlgorithmProgrammingProject-C
 
-Welcome to the AlgorithmProgrammingProject-C Repository. This repository contains various C programming projects from my studies up to the second year, including practical assignments and independent exercises aimed at enhancing coding skills. The repository is organized into different folders, each representing a distinct project.
+Welcome to the AlgorithmProgrammingProject-C Repository. This repository contains various C programming projects from my studies up to the second year, organized into different folders, each representing a distinct project. This repository serves as a major project for students when I was a Basic Computing Lab assistant.
 
 ## Directory Structure
 
 The repository is organized as follows:
-
-AlgorithmProgrammingProject-C/
 ```
+AlgorithmProgrammingProject-C/
 ├── D'COURSE/
-│ ├── dcourse.c
-│ └── README.md
+│       ├── dcourse.c
+│       └── README.md
 ├── D'WASH/
-│ ├── dwash.c
-│ └── README.md
+│       ├── dwash.c
+│       └── README.md
+├── LICENSE
 └── README.md
 ```
-
-
-### Projects
 
 #### D'COURSE
 
