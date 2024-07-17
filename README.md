@@ -36,7 +36,7 @@ D'Wash is a C-based program designed to facilitate customers in using vehicle wa
 2. **Navigate to the Project Folder**
 
     ```sh
-   cd "D'COURSE" # or cd "D'WASH"
+   cd "folder_program_name"
 
 4. **Compile the Program**
 
